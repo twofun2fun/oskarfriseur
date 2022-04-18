@@ -236,6 +236,7 @@ img {
 
   .navbar a {
     display: flex;
+    padding: 5px;
   }
 
   .flex-items {
@@ -246,5 +247,19 @@ img {
   .flex-grid .column {
     flex: 100%;
     max-width: 100%;
+  }
+
+  .prices .prices-right #right-1 {
+    line-height: 2.5;
+  }
+
+  .prices .prices-right #right-2 {
+    padding-top: 5px;
+    line-height: 2.2;
+  }
+
+  .prices .prices-right #right-3 {
+    padding-top: 5px;
+    line-height: 1.3;
   }
 }
