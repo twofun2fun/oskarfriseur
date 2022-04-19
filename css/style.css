@@ -230,13 +230,12 @@ img {
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
-    height: 150px;
-    padding: 20px;
+    height: 100px;
+    padding: 0px;
   }
 
   .navbar a {
-    display: flex;
-    padding: 5px;
+    padding: 0px;
   }
 
   .flex-items {
